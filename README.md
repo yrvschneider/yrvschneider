@@ -1,7 +1,7 @@
 # Oiii! Me chamo Yuri Schneider
 
 - Atualmente estudante da Graduação Analise e Desenvilvimento de Sistemas
-- Estudado Back-End
+👨‍💻 - Estudado Back-End
 - Lingagens JavaScript e Noed.Js
 
 - Portfolio ainda no inicio, mas em constante evolução.
