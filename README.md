@@ -1,10 +1,10 @@
 # Oiii! Me chamo Yuri Schneider
 
-- Atualmente estudante da Graduação Analise e Desenvilvimento de Sistemas
-👨‍💻 - Estudado Back-End
-- Lingagens JavaScript e Noed.Js
+- 🎓 Atualmente estudante da Graduação Analise e Desenvilvimento de Sistemas
+- 👨‍💻 Estudos voltado para Back-End
+- 📚 Lingagens JavaScript e Noed.Js
 
-- Portfolio ainda no inicio, mas em constante evolução.
+- 📑 Portfolio ainda no inicio, mas em constante evolução.
 
 <div align="center">
   <a href="https://github.com/yrvschneider">
