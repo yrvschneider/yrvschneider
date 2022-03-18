@@ -2,7 +2,7 @@
 
 - 🎓 Atualmente estudante da Graduação Analise e Desenvilvimento de Sistemas
 - 👨‍💻 Estudos voltado para Back-End
-- 📚 Lingagens JavaScript e Noed.Js
+- 📚 Lingagens Python, JavaScript e Noed.Js
 
 - 📑 Portfolio ainda no inicio, mas em constante evolução.
 
