@@ -1,8 +1,6 @@
 # Oiii! Me chamo Yuri Schneider
 
 - 🎓 Atualmente estudante da Graduação Analise e Desenvilvimento de Sistemas
-- 👨‍💻 Estudos voltado para Back-End
-- 📚 Lingagens Python
 
 - 📑 Portfolio ainda no inicio, mas em constante evolução.
 
